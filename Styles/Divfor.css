@@ -1,0 +1,45 @@
+.div{
+	height: 200px;
+	width: 200px;
+    margin-left: 500px;
+    
+
+}
+.topdiv{
+	height: 50px;
+	width: 200px;
+	font-size: 20px;
+	margin-left: 37px;
+	margin-top: 30px;
+
+    
+}
+.downdiv{
+	width: 200px;
+	height: 100px;
+   
+}   
+.otd{
+	float: left;
+	width: 100px;
+	height: 40px;
+	padding-top: 46px;
+	padding-left: 10px;
+	font-size: 20px;
+}
+.Static{
+	float: right;
+	font-size: 15px;
+}
+.ulll{
+	list-style-type: none;
+	font-size: 20px;
+	padding-right: 30px;
+    border-style: solid;
+	border-width:2px;
+	border-top-color:white;
+	border-bottom-color: #000;
+	border-left-color:white;
+	border-right-color: white;
+}
+

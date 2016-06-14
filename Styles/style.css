@@ -1,0 +1,104 @@
+.mainbuttondiv {
+height: 100%;
+width: 360px;
+float: left;
+background-color: #4682B4;
+border-style:solid;
+border-left-style: none;
+border-bottom-style: none;
+border-top-style:none;
+border-right-width: 20px;
+border-right-color: #86ABCB; 
+}
+.body {
+padding-left: 15%;
+padding-right: 15%;
+background-color: white;
+}
+.main{
+width: 100%;
+height: 1000px;
+}
+#scroll{
+	float:right; 
+	width: 555px;
+	background-color: white;
+	float: right;
+	height: 100%;
+    margin-right: -10px;
+   /* margin-right: 100px;*/
+}
+.button{
+	width: 200px;
+	height: 70px;
+	margin-top: 20px;
+	margin-left:70px; 
+	margin-bottom: 20px
+
+}
+.chet{
+	float:left;
+	margin-top: 30px;
+	width: 30px;
+	margin-left: 140px;
+	
+}
+.lol{
+float: left;
+margin-top: 30px;
+
+}
+.head{
+	width: 100%;
+	height: 100px;
+	background-color: #4682B4;
+	border-style:solid;
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style:none;
+    border-bottom-width: 20px;
+    border-bottom-color: #86ABCB; 
+}
+.writing
+{
+   font-family: 'Arial Unicode MS';
+   font-size: large;
+   font-weight: 400;
+   color: white;
+   padding-top: 40px;
+   padding-left: 120px;
+}
+.btnVery{
+	width: 200px;
+	height: 70px;
+	border-style: none;
+}
+.btnVery:hover {
+ color: #fff;
+}
+.btnVery:active {
+	background-position: 0 top;
+    position: relative;
+    top: 1px;
+    color: #fff;
+    padding: 6px 12px 4px;
+}
+    
+.filtr{
+	margin-top: 130px;
+	height: 20px;
+	width: 20px;
+	float: left;
+	font-size: 28px;
+	margin-left: 40px;
+}
+.down{
+	width: 360px;
+	border-style:solid;
+	border-left-style: none;
+	border-bottom-style: none;
+	border-right-style:none;
+	border-top-width: 20px;
+	border-top-color: #86ABCB; 
+
+}
